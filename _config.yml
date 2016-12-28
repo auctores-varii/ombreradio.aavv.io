@@ -14,10 +14,10 @@ default_img:
 
 # Profile settings
 name: aavv
-profile_img: www.aavv.io/img/logo5.jpg
+profile_img: http://www.aavv.io/img/logo5.jpg
 profile: 
 social:
-  github: auctores-varii
+        github: https://github.com/auctores-varii
 
 # Build settings
 include: ["_categories"]
