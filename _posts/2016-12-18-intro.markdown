@@ -8,6 +8,8 @@ description:
 image: http://blog.martasmaldone.eu/wp-content/uploads/2010/07/pola1.jpeg
 image-sm: http://blog.martasmaldone.eu/wp-content/uploads/2010/07/pola1.jpeg
 ---
+
+
 Racconto di un momento
 Impressione sonora
 Ricordo rumoroso
