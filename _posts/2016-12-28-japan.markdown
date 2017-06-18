@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ombre radio Giappone"
-date: 2016-12-28
+title: "Japan"
+date: 2016-04-19
 categories:
   - soundpack
 description: 
@@ -9,15 +9,19 @@ image: http://blog.martasmaldone.eu/wp-content/uploads/2016/09/yakitorimod.jpg
 image-sm: http://blog.martasmaldone.eu/wp-content/uploads/2016/09/yakitorimod.jpg
 ---
 
-Ombre radio giappone
+# Ombre radio dal giappone
 
+
+<br><br>
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 
 
 ***
-#2 Sound packs
+<br><br>
+
+## Sound packs
 
 |                  |                 |                           |
 |------------------|-----------------|---------------------------|
@@ -27,8 +31,16 @@ Ombre radio giappone
 | Roland SP808     | japan-sp808.zip |                           |
 | RAW              | japan-raw.zip   | normalized wav            |
 
-*** 
+<br><br>
 
-#2[Related Project _Ōsaka-eki_](http://www.aavv.io/project_japan/2017/05/08/Osaka-eki/ "Ōsaka-eki")
+***
 
-<iframe src="https://player.vimeo.com/video/219274698" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+## Related Project
+<br><br>
+[_Ōsaka-eki_ video by aavv](http://www.aavv.io/project_japan/2017/05/08/Osaka-eki/ "Ōsaka-eki")
+<br><br>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/328714711&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+

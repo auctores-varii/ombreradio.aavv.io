@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Venezia - in progress"
+date: 2016-12-28
+categories:
+  - soundpack
+description: 
+image: http://blog.martasmaldone.eu/wp-content/uploads/2015/10/creta02.jpg
+image-sm: http://blog.martasmaldone.eu/wp-content/uploads/2015/10/creta02.jpg
+---
+
+#  Ombre radio da Venezia
+
+
+
+<br><br>
+
+"working progress"
+
+
+
+***
+<br><br>
+
+## Sound packs
+
+|                  |                 |                           |
+|------------------|-----------------|---------------------------|
+| MicroGranny      |     |              |
+| Octatrack        |  |  |
+| Novation Circuit |    |           |
+| Roland SP808     |  |                           |
+| RAW              |    |             |
+
+<br><br>
+
+***
+
+
+
+## [Related Project Demo](http://www.aavv.io/)
+
+

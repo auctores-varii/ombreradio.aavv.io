@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Napoli - in progress"
+date: 2017-04-25
+categories:
+  - soundpack
+description: 
+image: http://blog.martasmaldone.eu/wp-content/uploads/2015/10/creta02.jpg
+image-sm: http://blog.martasmaldone.eu/wp-content/uploads/2015/10/creta02.jpg
+---
+
+#  Ombre radio da US
+
+
+
+<br><br>
+
+"working progress"
+
+
+
+***
+<br><br>
+
+## Sound packs
+
+|                  |                 |                           |
+|------------------|-----------------|---------------------------|
+| MicroGranny      |     |              |
+| Octatrack        |  |  |
+| Novation Circuit |    |           |
+| Roland SP808     |  |                           |
+| RAW              |    |             |
+
+<br><br>
+
+***
+
+
+
+## [Related Project Demo](http://www.aavv.io/)
+
+
